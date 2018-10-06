@@ -1,2 +1,2 @@
 # xgoldbothalo
-halo bot
+halo chat bot
